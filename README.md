@@ -2,5 +2,5 @@
 - 👀 I’m interested in coding, video editing and graphic design
 - 🌱 I’m currently learning C++ and Web Development
 - 💞️ I’m looking to collaborate on C++ 
-- 📫 How to reach me my mail milangour321@gmail.com
+- 📫 How to reach me my mail milan.gour97521@gmail.com
 - Have a great day "SAYONARA"
