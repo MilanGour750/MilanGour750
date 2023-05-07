@@ -1,4 +1,4 @@
-![logo](https://github.com/MilanGour750/MilanGour750/blob/main/Simple%20Work%20LinkedIn%20Banner.png)
+![logo](https://github.com/MilanGour750/MilanGour750/blob/main/Simple%20Work%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Milan Gour</h1>
 <h3 align="center">Experienced Mern Stack Developer.</h3>
