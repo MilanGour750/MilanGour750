@@ -36,6 +36,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanGour750&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milangour750&show_icons=true&locale=en&layout=compact" alt="milangour750" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milangour750&show_icons=true&locale=en" alt="milangour750" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=milangour750&" alt="milangour750" /></p>
