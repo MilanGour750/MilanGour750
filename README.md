@@ -36,9 +36,9 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MilanGour750&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" alt="milangour750" /></p>
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=milangour750&show_icons=true&locale=en](https://github-readme-streak-stats.herokuapp.com/?user=MilanGour750&theme=midnight-purple&hide_border=false)" alt="milangour750" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MilanGour750&theme=midnight-purple&hide_border=false" alt="milangour750" /></p>
 
-<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=milangour750&](https://github-readme-stats.vercel.app/api/top-langs/?username=MilanGour750&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)" alt="milangour750" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MilanGour750&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="milangour750" /></p>
 
 
 
