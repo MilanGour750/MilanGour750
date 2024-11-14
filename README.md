@@ -9,13 +9,13 @@
 
 🔭 I’m currently Studying as Computer Science Undergrad At VIT,Bhopal 
 
-🌱 I’m currently learning Mern Stack Development **React.JS, Node.Js, Express.Js Etc...**
+🌱 A **DevOps Learner** and proficient Mern Stack Developer **React.JS, Node.Js, Express.Js Etc...**
 
 🌐 My Other Project Link 
 1) [Event Pro](https://drive.google.com/file/d/1pzQBz9yH8pJIJj5qTq5NGjmVuhmZcQPv/view?usp=drivesdk)
 2) [DAAM(E-commerce)](https://drive.google.com/drive/folders/1zhfhkuznSmDePg9IzFbSyRpMD-T5Ppfh?usp=share_link)
 
-📫 Reach me through **milan.gour4study@gmail.com**
+📫 Reach me through **milan.gour97521@gmail.com**
 
 📊 Know about my experiences [Resume](https://docs.google.com/document/d/1oRO_pSOkzvJhNpdp8hwytkNJls1qR2rxxlU6Xmg2UcI/edit?usp=share_link)
 
