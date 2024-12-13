@@ -17,7 +17,7 @@
 
 📫 Reach me through **milan.gour97521@gmail.com**
 
-📊 Know about my experiences [Resume](https://docs.google.com/document/d/1oRO_pSOkzvJhNpdp8hwytkNJls1qR2rxxlU6Xmg2UcI/edit?usp=share_link)
+📊 Know about my experiences [Resume](https://drive.google.com/file/d/1LJNEa6TR5wc1j7dtJEI5E-kRJVNC9eo_/view?usp=drive_link)
 
 ⚡ Fun fact is that Iam  **Stock Market Enthusiast 📊📈**
 
